@@ -1,5 +1,8 @@
 <section>
-
+    <a href='cadastrar'>
+        <button class="btn btn-success">cadastrar</button>
+    </a>
+    
     <table class="table bg-light mt-03">
         <thead>
             <tr>
@@ -30,5 +33,6 @@
                 <td> Inativo </td>
             </tr>
         </tbody>
-
+     
 </section>
+
