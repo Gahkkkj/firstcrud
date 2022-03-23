@@ -1,22 +1,22 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => 'dev-master',
-        'version' => 'dev-master',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '49f82633b7fd9829edca8604100987b4d5690c4d',
+        'reference' => '6b581b9d1da725a03f8304d13774e90ecede16b3',
         'name' => 'crudemaula/vagas',
         'dev' => true,
     ),
     'versions' => array(
         'crudemaula/vagas' => array(
-            'pretty_version' => 'dev-master',
-            'version' => 'dev-master',
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '49f82633b7fd9829edca8604100987b4d5690c4d',
+            'reference' => '6b581b9d1da725a03f8304d13774e90ecede16b3',
             'dev_requirement' => false,
         ),
     ),
