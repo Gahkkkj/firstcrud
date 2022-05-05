@@ -11,9 +11,9 @@
     <title>Hello, world!</title>
   </head>
 
-  <body class="bg-dark text-light">
+  <body class="bg-light text-dark">
       <div class="container">
-          <header class="jumbotron bg-danger">
+          <header class="jumbotron text-light bg-dark">
               <h1> First Crud </h1>
-              <p> É ISSO AÍ E JA ERA </p>
+              <p> prupru</p>
             </header>
